@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.task{
+  color: black;
+  background-color:lightgray;
+  font-size: 30px;
+  border-color: black;
+  border-width: 20px;
+  border: double;
+  margin-top: 30px;
+  margin-left:450px;
+  margin-right: 450px;
+  
+  
+}
