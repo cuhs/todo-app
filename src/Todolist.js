@@ -52,7 +52,7 @@ function TodoList () {
         <p>Name: {task[0]}</p>
         <p>Description: {task[1]}</p>
         <p>Due date: {task[2]}</p>
-        <button onClick={() => deleteTask(index)}> Remove </button>
+        <button className="removeButton" onClick={() => deleteTask(index)}> Remove </button>
        </div>
       ))}
 

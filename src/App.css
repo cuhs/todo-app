@@ -41,7 +41,7 @@
 .task{
   color: black;
   background-color:lightgray;
-  font-size: 30px;
+  font-size: 20px;
   border-color: black;
   border-width: 20px;
   border: double;
@@ -50,4 +50,13 @@
   margin-right: 450px;
   
   
+}
+
+.removeButton{
+  margin-bottom:30px;
+  background-color: lightblue;
+  border-radius: 30px;
+  font-size: 15px;
+  border-color:lightblue;
+  box-shadow: mediumpurple;
 }
